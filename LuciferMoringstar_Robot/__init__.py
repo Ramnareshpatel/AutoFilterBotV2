@@ -28,14 +28,14 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
+➥ ɴᴀᴍᴇ :  Auto Filter V3
     
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
+➥ ᴄʀᴇᴀᴛᴇʀ : [會؄𝚂𝚄𝚁𝙰𝙹؄會(
+https://t.me/Movies4youBackup)
 
-➥ Language : Python3
+➥ ʟᴀɴɢᴜᴀɢᴇ : Python3
 
-➥ Library : Pyrogram Asyncio 1.13.0
+➥ ʟɪʙʀᴀʀʏ : Pyrogram Asyncio 1.13.0
 
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
+➥ ᴜᴘᴅᴀᴛᴇ : [Click Me](https://t.me/Movies4youBackup)
 """
